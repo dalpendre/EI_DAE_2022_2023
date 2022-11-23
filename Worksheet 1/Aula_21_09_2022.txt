@@ -1,0 +1,5 @@
+PLL - 
+
+BLL - Business Logic Layer
+
+DAL - Database Application Layer
